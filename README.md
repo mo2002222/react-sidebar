@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Sidebar
 
 <p align="center">
@@ -13,3 +14,7 @@
     </tr>
   </tbody>
 </table>
+=======
+# SideBar
+sidebar using react
+>>>>>>> 0c913117291c241a149ffa9b94a3d81aae6fcadd

@@ -108,7 +108,7 @@ function App() {
             }}
           >
             <img
-              src="https://ik.imagekit.io/ankitimages/Ankit_NcEL5UkVR.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1666079387643"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOz18-q0kyakVcxdTuLlyyHVN5npGJi92ou04GZgFVLNWhTim5JlQBwA1hPJMzM90_Uas&usqp=CAU"
               alt="profile_image"
             />
           </motion.div>
